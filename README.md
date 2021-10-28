@@ -1,4 +1,5 @@
 # interior-testing.io
+<html>
 <script src='https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js'></script>
 
 <style>
@@ -49,3 +50,4 @@
 		<a-entity camera></a-entity>
     </a-scene>
 </body>
+</html>
