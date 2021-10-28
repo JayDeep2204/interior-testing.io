@@ -37,10 +37,10 @@
 
         <!-- use rawgithack to retrieve the correct url for nft marker (see 'pinball' below) -->
         <a-nft
-            type='nft' url='https://raw.githack.com/JayDeep2204/interior-testing.io/main/wireframe.fset'
+            type='nft' url="https://raw.githack.com/JayDeep2204/interior-testing.io/main/wireframe.fset"
             smooth='true' smoothCount='10' smoothTolerance='0.01' smoothThreshold='5'>
             <a-entity
-                gltf-model='https://raw.githack.com/JayDeep2204/interior-testing.io/main/try%20truck.glb'
+                gltf-model="https://raw.githack.com/JayDeep2204/interior-testing.io/main/try%20truck.glb"
                 scale="5 5 5"
                 position="150 300 -100"
                 >
