@@ -1,4 +1,3 @@
-# interior-testing.io
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,7 +22,7 @@
 
   <body>
     <div class="example-container">
-      <a-scene mindar-image="imageTargetSrc: ./assets/card-example/targets.mind; showStats: true;" embedded color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+      <a-scene mindar-image="imageTargetSrc: ./assets/targets.mind; showStats: true;" embedded color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
         <a-assets>
           <img id="card" src="./assets/wireframe.png" />
           <a-asset-item id="avatarModel" src="./assets/Flate_Interior.gltf"></a-asset-item>
